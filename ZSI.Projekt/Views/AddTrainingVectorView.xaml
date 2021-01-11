@@ -1,0 +1,77 @@
+﻿<UserControl x:Class="ZSI.Projekt.Views.AddTrainingVectorView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ZSI.Projekt.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Margin" Value="0 0 0 6"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Background" Value="#e3e3e3"/>
+            <Setter Property="Margin" Value="0 0 0 6"/>
+            <Setter Property="Padding" Value="0 6"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid Background="#deb887">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+
+        </Grid.RowDefinitions>
+
+        <Button Grid.Column="1" Background="Transparent"
+                Width="40" Height="40" VerticalAlignment="Top"
+                Margin="0 25 0 0" BorderThickness="0"
+                Command="{Binding DataContext.GoToMainViewModelCommand,
+                            RelativeSource={RelativeSource FindAncestor, 
+                            AncestorType={x:Type local:MainWindow}}}">
+            <Image Source="/Views/Images/back-arrow.png"/>
+        </Button>
+
+        <Border Padding="10" Grid.Column="4">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+                <TextBlock>Litera</TextBlock>
+                <ComboBox ItemsSource="{Binding Letters}" Height="30"
+                          Margin="0 0 0 14" BorderThickness="0"
+                          x:Name="comboLetter"/>
+                <Button Command="{Binding SelectImageCommand}" Margin="0 0 0 14">Wczytaj bitmapę</Button>
+                <Button Command="{Binding AddNewTrainingVectorCommand}"
+                        CommandParameter="{Binding ElementName=comboLetter, Path=SelectedItem}">Dodaj</Button>
+                <TextBlock HorizontalAlignment="Center" FontSize="16"
+                           Foreground="Green" Margin="0 10 0 0" Text="{Binding Message}"></TextBlock>
+            </StackPanel>
+        </Border>
+
+        <Border Padding="10" Grid.Column="4" Grid.Row="2">
+            <Border Width="150" Height="150" 
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    BorderThickness="1"
+                    BorderBrush="Black">
+                <Image Width="150" Height="150" 
+                   Source="{Binding BitmapImage}"/>
+            </Border>
+
+        </Border>
+
+    </Grid>
+</UserControl>

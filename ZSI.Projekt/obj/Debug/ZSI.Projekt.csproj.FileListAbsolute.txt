@@ -1,0 +1,104 @@
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\bin\Debug\ZSI.Projekt.exe.config
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\bin\Debug\ZSI.Projekt.exe
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\bin\Debug\ZSI.Projekt.pdb
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\ZSI.Projekt.csprojAssemblyReference.cache
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\Views\MainWindow.g.cs
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\App.g.cs
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\ZSI.Projekt_MarkupCompile.cache
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\ZSI.Projekt_MarkupCompile.lref
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\Views\MainWindow.baml
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\ZSI.Projekt.g.resources
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\ZSI.Projekt.Properties.Resources.resources
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.GenerateResource.cache
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.CoreCompileInputs.cache
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\ZSI.Projekt.exe
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\ZSI.Projekt.pdb
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\bin\Debug\System.Drawing.Common.dll
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.CopyComplete
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\Views\MainView.g.cs
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\App.baml
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\Views\MainView.baml
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\Views\AddTrainingVectorView.g.cs
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\obj\Debug\Views\AddTrainingVectorView.baml
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\kryst\source\repos\ZSI.Projekt\ZSI.Projekt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\bin\Debug\ZSI.Projekt.exe.config
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\bin\Debug\ZSI.Projekt.exe
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\bin\Debug\ZSI.Projekt.pdb
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\bin\Debug\System.Drawing.Common.dll
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\ZSI.Projekt.csprojAssemblyReference.cache
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\Views\AddTrainingVectorView.g.cs
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\Views\MainView.g.cs
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\Views\MainWindow.g.cs
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\App.g.cs
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\ZSI.Projekt_MarkupCompile.cache
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\ZSI.Projekt_MarkupCompile.lref
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\App.baml
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\Views\AddTrainingVectorView.baml
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\Views\MainView.baml
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\Views\MainWindow.baml
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\ZSI.Projekt.g.resources
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\ZSI.Projekt.Properties.Resources.resources
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.GenerateResource.cache
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.CoreCompileInputs.cache
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.CopyComplete
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\ZSI.Projekt.exe
+C:\Users\kryst\source\repos\ZSI.Projekt.serialization\ZSI.Projekt\obj\Debug\ZSI.Projekt.pdb
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\bin\Debug\ZSI.Projekt.exe.config
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\bin\Debug\ZSI.Projekt.exe
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\bin\Debug\ZSI.Projekt.pdb
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\bin\Debug\Newtonsoft.Json.dll
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\bin\Debug\System.Drawing.Common.dll
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\bin\Debug\Newtonsoft.Json.pdb
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\bin\Debug\Newtonsoft.Json.xml
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.csprojAssemblyReference.cache
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\Views\AddTrainingVectorView.g.cs
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\Views\MainView.g.cs
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\Views\MainWindow.g.cs
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\App.g.cs
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt_MarkupCompile.cache
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt_MarkupCompile.lref
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\App.baml
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\Views\AddTrainingVectorView.baml
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\Views\MainView.baml
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\Views\MainWindow.baml
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.g.resources
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.Properties.Resources.resources
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.GenerateResource.cache
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.CoreCompileInputs.cache
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.CopyComplete
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.exe
+G:\PK\SEM-V-K\Sem. V\Zastosowania sztucznej inteligencji\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.pdb
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\bin\Debug\ZSI.Projekt.exe.config
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\bin\Debug\ZSI.Projekt.exe
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\bin\Debug\ZSI.Projekt.pdb
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\bin\Debug\Newtonsoft.Json.dll
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\bin\Debug\System.Drawing.Common.dll
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\bin\Debug\Newtonsoft.Json.pdb
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\bin\Debug\Newtonsoft.Json.xml
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.csprojAssemblyReference.cache
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\Views\AddTrainingVectorView.g.cs
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\Views\MainView.g.cs
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\Views\MainWindow.g.cs
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\App.g.cs
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt_MarkupCompile.cache
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt_MarkupCompile.lref
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\App.baml
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\Views\AddTrainingVectorView.baml
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\Views\MainView.baml
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\Views\MainWindow.baml
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.g.resources
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.Properties.Resources.resources
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.GenerateResource.cache
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.CoreCompileInputs.cache
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.csproj.CopyComplete
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.exe
+C:\uczelnia\sztuczna inteligencja\kr\LettersRegognition\ZSI.Projekt\obj\Debug\ZSI.Projekt.pdb
